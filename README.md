@@ -1,4 +1,4 @@
-# Bank-Aplication-Project-in-Java Made With💖
+# Bank Aplication Project in Java Made With💖
 
 Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br>
 A GUI Bank Application in Java(JavaSwings) with database
