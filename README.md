@@ -1,6 +1,7 @@
 # Bank Aplication Project in Java Made With💖
 
-Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br>
+Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> 
+and Mukunda Gujjar
 A GUI Bank Application in Java(JavaSwings) with database
 <h3>This is A College Project </h3>
 <h4>the above jar files will need to be downloaded </h4>
