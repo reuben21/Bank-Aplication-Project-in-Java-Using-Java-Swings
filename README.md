@@ -36,7 +36,7 @@ Below Snap Shows Transfer of Money From One Account To Another
 Admin Screen After Loggin In, The Admin Page
 </li>
 <br>
-<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Admin%20Page.PNG?raw=true" alt="" width="100%">
+<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Admin%20Page.PNG?raw=true" alt=""  width="70%">
 <br>
 
 
