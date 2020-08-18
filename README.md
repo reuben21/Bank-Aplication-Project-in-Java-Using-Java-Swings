@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
         <h1>Bank Aplication Project in Java Made With💖</h1>
         <h2>
             Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br>
@@ -67,3 +68,11 @@
 
             </ol>
         </h3>
+=======
+Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> 
+and Mukunda Gujjar
+A GUI Bank Application in Java(JavaSwings) with database
+<h3>This is A College Project </h3>
+<h4>the above jar files will need to be downloaded </h4>
+<h4>The MySQL Files needs to be Imported</h4>
+>>>>>>> 515443b608952923e8064b67f7f5c55c543b2e65
