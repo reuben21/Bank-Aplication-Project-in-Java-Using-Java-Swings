@@ -233,7 +233,7 @@ public class viewingcustomerpage extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new viewingcustomerpage("A","B").setVisible(true);
+                new viewingcustomerpage("reuben","reuben").setVisible(true);
             }
         });
     }
