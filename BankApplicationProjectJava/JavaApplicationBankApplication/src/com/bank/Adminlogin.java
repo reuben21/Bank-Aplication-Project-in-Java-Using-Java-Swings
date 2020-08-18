@@ -172,7 +172,10 @@ public class Adminlogin extends javax.swing.JFrame {
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
         // TODO add your handling code here:
         String id=getadmin_username.getText();
+        System.out.println(id);
+        
         String password=getadmin_password.getText();
+        System.out.println(password);
         if(evt.getSource()==jButton1)
         {
             if(id.compareTo("ADMIN")==0&&password.compareTo("ADMIN")==0)

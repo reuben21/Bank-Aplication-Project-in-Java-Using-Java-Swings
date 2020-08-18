@@ -145,7 +145,7 @@
               <Font name="Microsoft JhengHei UI Light" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/bank/icons8-login-rounded-50.png"/>
+              <Image iconType="3" name="/com/bank/ID.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="VIEW PROFILE"/>
           </Properties>
@@ -162,7 +162,7 @@
               <Font name="Microsoft JhengHei UI Light" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/bank/money.jpeg"/>
+              <Image iconType="3" name="/com/bank/Dollar-2.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="VIEW BANK BALANCE"/>
           </Properties>
@@ -176,7 +176,7 @@
               <Font name="Microsoft JhengHei UI Light" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/bank/initiate-money-transfer.jpeg"/>
+              <Image iconType="3" name="/com/bank/Paper Airplane.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="TO TRANSFER"/>
           </Properties>

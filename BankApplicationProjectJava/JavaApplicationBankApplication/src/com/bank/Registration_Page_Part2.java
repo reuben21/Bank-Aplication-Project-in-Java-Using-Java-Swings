@@ -165,7 +165,7 @@ public class Registration_Page_Part2 extends javax.swing.JFrame {
         );
 
         REGISTERBUTTON.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 1, 18)); // NOI18N
-        REGISTERBUTTON.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/user_add.png"))); // NOI18N
+        REGISTERBUTTON.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/File-15.png"))); // NOI18N
         REGISTERBUTTON.setText("REGISTER");
         REGISTERBUTTON.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -198,9 +198,9 @@ public class Registration_Page_Part2 extends javax.swing.JFrame {
                         .addGap(403, 403, 403)
                         .addComponent(jLabel22))
                     .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(235, 235, 235)
+                        .addGap(256, 256, 256)
                         .addComponent(REGISTERBUTTON, javax.swing.GroupLayout.PREFERRED_SIZE, 202, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(94, 94, 94)
+                        .addGap(73, 73, 73)
                         .addComponent(jButton3))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(100, 100, 100)
@@ -218,9 +218,9 @@ public class Registration_Page_Part2 extends javax.swing.JFrame {
                 .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(27, 27, 27)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(REGISTERBUTTON))
-                .addContainerGap(36, Short.MAX_VALUE))
+                    .addComponent(REGISTERBUTTON)
+                    .addComponent(jButton3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

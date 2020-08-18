@@ -79,7 +79,7 @@ public class viewingcustomerpage extends javax.swing.JFrame {
         );
 
         View_Profile.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 1, 14)); // NOI18N
-        View_Profile.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/icons8-login-rounded-50.png"))); // NOI18N
+        View_Profile.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/ID.png"))); // NOI18N
         View_Profile.setText("VIEW PROFILE");
         View_Profile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -88,7 +88,7 @@ public class viewingcustomerpage extends javax.swing.JFrame {
         });
 
         jButton2.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 1, 14)); // NOI18N
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/money.jpeg"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/Dollar-2.png"))); // NOI18N
         jButton2.setText("VIEW BANK BALANCE");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -97,7 +97,7 @@ public class viewingcustomerpage extends javax.swing.JFrame {
         });
 
         ToTransfer.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 1, 14)); // NOI18N
-        ToTransfer.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/initiate-money-transfer.jpeg"))); // NOI18N
+        ToTransfer.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/Paper Airplane.png"))); // NOI18N
         ToTransfer.setText("TO TRANSFER");
         ToTransfer.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

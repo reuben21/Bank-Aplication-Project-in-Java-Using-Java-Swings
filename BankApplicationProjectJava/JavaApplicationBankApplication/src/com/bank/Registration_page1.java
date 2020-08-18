@@ -295,7 +295,7 @@ String GENDER;
         );
 
         REGISTERBUTTON.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 1, 18)); // NOI18N
-        REGISTERBUTTON.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/user_add.png"))); // NOI18N
+        REGISTERBUTTON.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/bank/File-15.png"))); // NOI18N
         REGISTERBUTTON.setText("NEXT PAGE");
         REGISTERBUTTON.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -361,9 +361,7 @@ String GENDER;
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 755, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+            .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 755, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
 
         setSize(new java.awt.Dimension(1078, 794));
