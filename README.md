@@ -2,7 +2,7 @@
 
 <h1>Bank Aplication Project in Java Made With💖</h1>
 <h2>
-Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br>
+Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> and Mukunda Gujjar
 A GUI Bank Application in Java(JavaSwings) with database
 </h2>
 
@@ -15,7 +15,7 @@ A GUI Bank Application in Java(JavaSwings) with database
 The Main Screen where the Admin Can Login and The Customer Can Login
 </li>
 <br>
-<img src="" alt="" width="70%">
+<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Main%20Screen.PNG?raw=true" alt="" width="70%">
 <br>
 
 <li>
@@ -33,10 +33,10 @@ Below Snap Shows Transfer of Money From One Account To Another
 <br>
 
 <li>
-Admin Screen After Loggin In
+Admin Screen After Loggin In, The Admin Page
 </li>
 <br>
-<img src="" alt="" width="100%">
+<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Admin%20Page.PNG?raw=true" alt=""  width="70%">
 <br>
 
 
