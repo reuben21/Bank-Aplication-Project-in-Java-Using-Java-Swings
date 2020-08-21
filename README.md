@@ -61,7 +61,7 @@ He can Withdraw Money from the Acount
 He Can See All the Customers that are using the bank
 </li>
 <br>
-<img src="https://flol5a.dm.files.1drv.com/y4mWAu_WZE46wQl8GuDHQiomPs83imoOPdwrkbNfROBoEJqRBp0Trzy2aNBI869ix81As7UVd7pkRS8Crxqt9ndfblmdWLMYHfzJyNwOmU62lMCNK2jshw4qz7bWNClUvPNwUVUhtYAIKR5cIqgQtAEdo3BSz62D9m6_U0fv3lR5C0iOslf_O0mDxYS4Qs5Cc_BmssEBygKRw7LBuQdB_vrMw?width=480&height=320&cropmode=none" alt="" width="70%">
+<img src="https://1drv.ms/u/s!AnZ1ZEP2BB6Dl5Z3nDWaLdKBgKsd8g" alt="" width="70%">
 <br>
 </ol>
 </h3>
