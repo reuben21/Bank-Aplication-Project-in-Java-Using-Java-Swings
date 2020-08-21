@@ -23,14 +23,14 @@ The Main Screen where the Admin Can Login and The Customer Can Login
 After Customer Log's In
 </li>
 <br>
-<img src="https://4hc8ng.dm.files.1drv.com/y4m2oOPBkjdy3J1-UzL4f2yuZ_NTPdbkNjsJBag--t_bc6Op1tfLFG5xEGtoHZkxzBmeQeU_fNRdNrnP7BUYdLEgcGXGbluHTolTAv6GyY22t47b7CGKrp7_LHBOM4hPjzyjms5WbUpJCBDqMPJAvpKdbFdbbH8cyRZ4RmBLyrloesA9wNWENfC0D3HCPb0uRMcubnBV5XObNLI-6W2690LIw?width=640&height=480&cropmode=none" width="70%"/>
+<img src="https://media.giphy.com/media/kGp3CjHSjHmEfHpkJf/giphy.gif" width="70%"/>
 <br>
 
 <li>
 Below Snap Shows Transfer of Money From One Account To Another
 </li>
 <br>
-<img src="https://joivpg.dm.files.1drv.com/y4m0I13kqHOJ1ypUzrPeCy01Bgr6eHLrAM5sStG4KSZYeoZUIOrZ1gM2hepXio08bdzZVw-jNUsS397vo9RRaWz7zi3jgB3Uvj3z6PBgq_pHoszHlyb-xNryGMkNVNVt-S4RPByjc3u27Ai1JpPXADW0WihUohZN0ix6tBEU9vYmxpv2md8UtPkp_E2XAMiAJMeHkaMLT7I553TUhQthJ1J3Q?width=640&height=360&cropmode=none" width="70%"/>
+<img src="https://media.giphy.com/media/ge8AztT2j3tfDk1Q8a/giphy.gif" width="70%"/>
 <br>
 
 <li>
@@ -45,7 +45,7 @@ Admin Screen After Loggin In, The Admin Page
 Admin Can Add the Base Amount to A New Account 
 </li>
 <br>
-<img src="https://ixpumw.dm.files.1drv.com/y4mpUpLJ2pasqZ-e2C_ehgnnPCusk1TGL7lOuYEv42ECvY8Ps-gr_6ljdvsnfIYVQbkxBvOAHqBCUqlu317i5z0pXqEk_s3ChzXKFVh4EHEwl8CF829Kdun__sHaVUpA44kx2AqeD7BD0SB4Semc7gcooy8m3Cg2BsHTynhZEq_JsRsbcrYBxGKE6rvctPHS1E9dVRsGQlGH6qf30RATKkQtg?width=480&height=320&cropmode=none" width="70%"/>
+<img src="https://media.giphy.com/media/f7S7miN0auorUFNwbD/giphy.gif" width="70%"/>
 <br>
 
 
@@ -53,7 +53,7 @@ Admin Can Add the Base Amount to A New Account
 He can Withdraw Money from the Acount
 </li>
 <br>
-<img src="https://rfwuqa.dm.files.1drv.com/y4mlxYox5VgZPhY4tOZQ3erGqN6AlVwVpOMpGP_BcFcoigbTzgVZr2osuPtffGX2sBC1sa-Xd2o6DkLMYlmovPaU-J2n2csr6PmK3l2J_IZNbVufCIr6oPK0Ap6dKZEM9octJFc0gRNP4h0ZTMkaFvq_-rsgGw6E82DkOfWbUT4dn5kMguvm5W_G39blbXz_W5cMF3w3iK6HDtBF44iG1ee4A?width=480&height=320&cropmode=none" alt="" width="70%">
+<img src="https://media.giphy.com/media/fYwGmWBwqPz38UWVIZ/giphy.gif" alt="" width="70%">
 <br>
 
 
@@ -61,7 +61,7 @@ He can Withdraw Money from the Acount
 He Can See All the Customers that are using the bank
 </li>
 <br>
-<img src="https://1drv.ms/u/s!AnZ1ZEP2BB6Dl5Z3nDWaLdKBgKsd8g" alt="" width="70%">
+<img src="https://media.giphy.com/media/h8sStWrMVTp7fTynHG/giphy.gif" alt="" width="70%">
 <br>
 </ol>
 </h3>
