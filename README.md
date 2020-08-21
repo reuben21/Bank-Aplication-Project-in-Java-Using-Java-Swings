@@ -15,7 +15,7 @@ A GUI Bank Application in Java(JavaSwings) with database
 The Main Screen where the Admin Can Login and The Customer Can Login
 </li>
 <br>
-<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Main%20Screen.PNG?raw=true" alt="" width="70%">
+<img src="https://github.com/reuben21/Bank-Aplication-Project-in-Java/blob/master/Snips/Main%20Screen.PNG" alt="" width="70%">
 <br>
 
 <li>
