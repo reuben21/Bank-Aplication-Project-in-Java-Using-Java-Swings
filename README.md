@@ -1,9 +1,9 @@
 
 
-<h1>Bank Aplication Project in Java Made With💖</h1>
+<h1>Bank Aplication Project in Java</h1>
 <h2>
-Credits Also to :<a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> and Mukunda Gujjar
-A GUI Bank Application in Java(JavaSwings) with database
+Credits Also to : <a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> and Mukunda Gujjar
+A GUI Bank Application in Java(JavaSwings) with database MySQL
 </h2>
 
 <h3>This is A College Project </h3>
