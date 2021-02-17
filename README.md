@@ -6,7 +6,6 @@ Credits Also to : <a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodri
 A GUI Bank Application in Java(JavaSwings) with database MySQL
 </h2>
 
-<h3>This is A College Project </h3>
 <h4>The above jar files will be needed to downloaded </h4>
 <h4>The MySQL Files needs to be Imported</h4>
 <h3>
