@@ -11,7 +11,7 @@ A GUI Bank Application in Java(JavaSwings) with database MySQL
 <h3>
 A Small Demo of the Project Can Be Seen Below </h3>
 <br/>
-<video src="https://user-images.githubusercontent.com/49688611/122528818-5f457480-d03a-11eb-903d-19c3e238eafb.mp4" width="50%" height="80%" controls/>
+<video src="https://user-images.githubusercontent.com/49688611/122528818-5f457480-d03a-11eb-903d-19c3e238eafb.mp4" width="80%" height="80%" loop controls/>
 <!-- <ol>
 <li>
 The Main Screen where the Admin Can Login and The Customer Can Login
