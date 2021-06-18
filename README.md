@@ -2,14 +2,17 @@
 
 <h1>Bank Aplication Project in Java</h1>
 <h2>
-Credits Also to : <a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a><br> and Mukunda Gujjar
+Credits Also to : <a href="https://github.com/Rheaserarodrigues">Rhea Sera Rodrigues</a>and Mukunda Gujjar
 A GUI Bank Application in Java(JavaSwings) with database MySQL
 </h2>
 
 <h4>The above jar files will be needed to downloaded </h4>
 <h4>The MySQL Files needs to be Imported</h4>
 <h3>
-<ol>
+A Small Demo of the Project Can Be Seen Below </h3>
+<br/>
+<video src="https://user-images.githubusercontent.com/49688611/122528818-5f457480-d03a-11eb-903d-19c3e238eafb.mp4" controls/>
+<!-- <ol>
 <li>
 The Main Screen where the Admin Can Login and The Customer Can Login
 </li>
@@ -18,7 +21,7 @@ The Main Screen where the Admin Can Login and The Customer Can Login
 
 <br>
 
-<li>
+<li> 
 After Customer Log's In
 </li>
 <br>
@@ -62,5 +65,5 @@ He Can See All the Customers that are using the bank
 <br>
 <img src="https://media.giphy.com/media/h8sStWrMVTp7fTynHG/giphy.gif" alt="" width="70%">
 <br>
-</ol>
+</ol> 
 </h3>
