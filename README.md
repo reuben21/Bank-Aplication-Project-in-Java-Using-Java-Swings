@@ -1,5 +1,5 @@
 <h1>Bank Aplication Project in Java</h1>
-<a href="https://github.com/reuben21/Bank-Aplication-Project-in-Java-Using-Java-Swings"><img src="https://user-images.githubusercontent.com/49688611/125306563-f3aaaa80-e34c-11eb-9283-c928ecc85f6b.png" width="30" height="30" alt="error"/> To Github </a>
+<a href="https://github.com/reuben21/Bank-Aplication-Project-in-Java-Using-Java-Swings" style="text-decoration:none;"><img src="https://user-images.githubusercontent.com/49688611/125306563-f3aaaa80-e34c-11eb-9283-c928ecc85f6b.png" width="20" height="20" alt="error"/> To Github </a>
 
 <h3> A Small Demo of the Project Can Be Seen Below </h3>
 <br/>
